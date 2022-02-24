@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fieryknight2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++/SDL
+- 🌱 I’m currently learning C++/SDL/Godot

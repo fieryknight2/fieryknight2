@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fieryknight2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Godot and C++
+- 🌱 I’m currently learning C++, Python and Web development.
